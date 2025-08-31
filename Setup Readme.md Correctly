@@ -1,0 +1,25 @@
+# counter app project
+
+# need a little descreption 
+what is this project about?
+Find out....
+
+## how to install the app
+
+    pip inatall -r requirement.txt
+
+   
+#  usage
+    start
+
+    print main.py
+'''
+
+And follow the intstuction on the screen
+
+#  test
+
+    ''' shell
+    pytest
+ '''
+ *****************************************************
